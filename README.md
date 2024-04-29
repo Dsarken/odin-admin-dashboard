@@ -1,2 +1,2 @@
 # odin-admin-dashboard
-Simple Dashboard created for The Odin Project, utilizes the grid system.
+Simple Dashboard created for The Odin Project, utilizes the CSS grid system.
